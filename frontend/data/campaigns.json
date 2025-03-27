@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1001,
+    "name": "Global Education Fund",
+    "location": "International",
+    "category": "Education",
+    "description": "Providing educational resources to underserved communities worldwide. This campaign focuses on building libraries and providing digital learning tools to schools in developing regions.",
+    "image": "education_logo.jpeg",
+    "goal": 50000,
+    "raised": 32505,
+    "transaction_id": "0.0.73920471",
+    "supporters": 215,
+    "status": "active",
+    "start_date": "2024-12-01",
+    "end_date": "2025-05-30",
+    "milestones": [
+      {
+        "name": "Resource Development",
+        "funds_required": 15000,
+        "status": "completed",
+        "proof": "tx-12345abcde"
+      },
+      {
+        "name": "Teacher Training",
+        "funds_required": 20000,
+        "status": "in_progress",
+        "proof": ""
+      },
+      {
+        "name": "Technology Distribution",
+        "funds_required": 15000,
+        "status": "pending",
+        "proof": ""
+      }
+    ],
+    "founded": "2018-05-12",
+    "website": "https://globaleducationfund.org",
+    "contact_email": "info@globaleducationfund.org"
+  },
+  {
+    "id": 1002,
+    "name": "Clean Water Initiative",
+    "location": "International",
+    "category": "Environment",
+    "description": "Building sustainable water systems in communities facing water scarcity. This project includes well-digging, water filtration systems, and education on water conservation.",
+    "image": "clean_water_logo.jpeg",
+    "goal": 75000,
+    "raised": 45000,
+    "transaction_id": "0.0.48392023",
+    "supporters": 128,
+    "status": "active",
+    "start_date": "2024-11-15",
+    "end_date": "2025-06-15",
+    "milestones": [
+      {
+        "name": "Site Assessment",
+        "funds_required": 10000,
+        "status": "completed",
+        "proof": "tx-67890fghij"
+      },
+      {
+        "name": "Well Construction",
+        "funds_required": 35000,
+        "status": "in_progress",
+        "proof": ""
+      },
+      {
+        "name": "Community Training",
+        "funds_required": 30000,
+        "status": "pending",
+        "proof": ""
+      }
+    ],
+    "founded": "2016-03-22",
+    "website": "https://cleanwaterinitiative.org",
+    "contact_email": "contact@cleanwaterinitiative.org"
+  },
+  {
+    "id": 1003,
+    "name": "Medical Relief Fund",
+    "location": "International",
+    "category": "Healthcare",
+    "description": "Providing critical medical supplies and healthcare services to regions affected by natural disasters or humanitarian crises.",
+    "image": "medical_relief_logo.jpeg",
+    "goal": 100000,
+    "raised": 67500,
+    "transaction_id": "0.0.48492109",
+    "supporters": 299,
+    "status": "active",
+    "start_date": "2024-10-01",
+    "end_date": "2025-04-01",
+    "milestones": [
+      {
+        "name": "Emergency Supplies",
+        "funds_required": 30000,
+        "status": "completed",
+        "proof": "tx-24680klmno"
+      },
+      {
+        "name": "Mobile Clinics",
+        "funds_required": 40000,
+        "status": "in_progress",
+        "proof": ""
+      },
+      {
+        "name": "Vaccination Program",
+        "funds_required": 30000,
+        "status": "pending",
+        "proof": ""
+      }
+    ],
+    "founded": "2010-01-10",
+    "website": "https://medicalrelieffund.org",
+    "contact_email": "help@medicalrelieffund.org"
+  },
+  {
+    "id": 1004,
+    "name": "Youth Tech Skills",
+    "location": "South East Asia",
+    "category": "Education",
+    "description": "Teaching coding, digital literacy, and technology skills to underprivileged youth to prepare them for future careers.",
+    "image": "tech_skills_logo.jpeg",
+    "goal": 40000,
+    "raised": 15000,
+    "transaction_id": "0.0.48391369",
+    "supporters": 94,
+    "status": "active",
+    "start_date": "2025-01-15",
+    "end_date": "2025-07-15",
+    "milestones": [
+      {
+        "name": "Curriculum Development",
+        "funds_required": 10000,
+        "status": "completed",
+        "proof": "tx-13579pqrst"
+      },
+      {
+        "name": "Equipment Purchase",
+        "funds_required": 20000,
+        "status": "in_progress",
+        "proof": ""
+      },
+      {
+        "name": "Scholarship Program",
+        "funds_required": 10000,
+        "status": "pending",
+        "proof": ""
+      }
+    ],
+    "founded": "2020-06-15",
+    "website": "https://youthtechskills.org",
+    "contact_email": "info@youthtechskills.org"
+  },
+  {
+    "id": 1005,
+    "name": "Wildlife Conservation",
+    "location": "East Africa",
+    "category": "Environment",
+    "description": "Protecting endangered species and their habitats through conservation efforts and anti-poaching initiatives.",
+    "image": "animal_conservation.jpeg",
+    "goal": 100000,
+    "raised": 87500,
+    "transaction_id": "0.0.48401123",
+    "supporters": 314,
+    "status": "active",
+    "start_date": "2024-02-14",
+    "end_date": "2026-06-19",
+    "milestones": [
+      {
+        "name": "Anti-poaching Patrols",
+        "funds_required": 40000,
+        "status": "completed",
+        "proof": "tx-13614xyzab"
+      },
+      {
+        "name": "Habitat Restoration",
+        "funds_required": 35000,
+        "status": "completed",
+        "proof": "tx-13621abcmn"
+      },
+      {
+        "name": "Community Education",
+        "funds_required": 25000,
+        "status": "in_progress",
+        "proof": ""
+      }
+    ],
+    "founded": "2021-01-19",
+    "website": "https://eawildlife.com",
+    "contact_email": "info@eawildlife.com"
+  },
+  {
+    "id": 1006,
+    "name": "Hunger Relief Program",
+    "category": "Hunger",
+    "location": "North America",
+    "description": "Providing nutritious meals to families in poverty and establishing sustainable food distribution systems.",
+    "image": "hunger_relief_logo.jpeg",
+    "goal": 60000,
+    "raised": 42300,
+    "transaction_id": "0.0.39284756",
+    "supporters": 178,
+    "status": "active",
+    "start_date": "2024-08-31",
+    "end_date": "2026-09-16",
+    "milestones": [
+      {
+        "name": "Emergency Food Distribution",
+        "funds_required": 20000,
+        "status": "completed",
+        "proof": "tx-13510axcvb"
+      },
+      {
+        "name": "Community Kitchens",
+        "funds_required": 25000,
+        "status": "in_progress",
+        "proof": ""
+      },
+      {
+        "name": "Urban Farming Initiative",
+        "funds_required": 15000,
+        "status": "pending",
+        "proof": ""
+      }
+    ],
+    "founded": "2019-01-27",
+    "website": "https://endhunger.com",
+    "contact_email": "info@endhunger.com"
+  },
+  {
+    "id": 1007,
+    "name": "Disaster Relief Fund",
+    "location": "International",
+    "category": "Disaster Relief",
+    "description": "Providing immediate assistance to communities affected by natural disasters, including shelter, food, and medical care.",
+    "image": "disaster_relief_logo.jpeg",
+    "goal": 200000,
+    "raised": 182500,
+    "transaction_id": "0.0.19384757",
+    "supporters": 523,
+    "status": "active",
+    "start_date": "2021-12-31",
+    "end_date": "2026-01-01",
+    "milestones": [
+      {
+        "name": "Emergency Response",
+        "funds_required": 80000,
+        "status": "completed",
+        "proof": "tx-13457masia"
+      },
+      {
+        "name": "Temporary Housing",
+        "funds_required": 70000,
+        "status": "completed",
+        "proof": "tx-13598abczn"
+      },
+      {
+        "name": "Rebuilding Infrastructure",
+        "funds_required": 50000,
+        "status": "in_progress",
+        "proof": ""
+      }
+    ],
+    "founded": "2021-01-19",
+    "website": "https://disasteraid.com",
+    "contact_email": "info@disasteraid.com"
+  }
+]

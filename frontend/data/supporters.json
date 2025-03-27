@@ -1,0 +1,33 @@
+{
+    "supporters": [
+      {
+        "donor": "John Doe",
+        "total_donated": 450,
+        "donations_count": 3,
+        "badges": [
+          {"name": "Generous Supporter", "emoji": ":glowing_star:"}
+        ]
+      },
+      {
+        "donor": "Anonymous",
+        "total_donated": 550,
+        "donations_count": 2,
+        "badges": []
+      },
+      {
+        "donor": "Jane Smith",
+        "total_donated": 200,
+        "donations_count": 2,
+        "badges": [
+          {"name": "Compassionate Heart", "emoji": ":sparkling_heart:"}
+        ]
+      },
+      {
+        "donor": "user",
+        "total_donated": 5,
+        "donations_count": 1,
+        "badges": []
+      }
+    ]
+  }
+  

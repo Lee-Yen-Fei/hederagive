@@ -1,0 +1,106 @@
+{
+    "1001": {
+      "verification_status": "Verified",
+      "last_audit_date": "2025-03-01",
+      "total_funds_received": 250000,
+      "total_funds_utilized": 125000,
+      "beneficiaries_helped": 2500,
+      "projects_completed": 2,
+      "ongoing_projects": 1,
+      "funds_allocation": {
+        "Infrastructure": 50,
+        "Operations": 30,
+        "Outreach": 20
+      },
+      "monthly_impact": [
+        {"month": "2025-01-01", "beneficiaries": 500, "funds_used": 50000},
+        {"month": "2025-02-01", "beneficiaries": 600, "funds_used": 55000},
+        {"month": "2025-03-01", "beneficiaries": 700, "funds_used": 60000},
+        {"month": "2025-04-01", "beneficiaries": 800, "funds_used": 65000}
+      ],
+      "verified_metrics": {
+        "verification_proof": "0x1a2b3c4d5e6f7g8h9i",
+        "impact_score": 88,
+        "transparency_rating": 92,
+        "fund_utilization_efficiency": 85,
+        "sustainable_development_goals": [
+          "SDG 6: Clean Water",
+          "SDG 4: Quality Education",
+          "SDG 10: Reduced Inequalities"
+        ]
+      },
+      "additional_info": {
+        "description": "This campaign focuses on providing educational resources and digital tools to underserved communities worldwide.",
+        "location": "International"
+      }
+    },
+    "1002": {
+      "verification_status": "Verified",
+      "last_audit_date": "2025-03-01",
+      "total_funds_received": 175000,
+      "total_funds_utilized": 75000,
+      "beneficiaries_helped": 1800,
+      "projects_completed": 1,
+      "ongoing_projects": 1,
+      "funds_allocation": {
+        "Educational Materials": 40,
+        "Technology": 35,
+        "Teacher Training": 25
+      },
+      "monthly_impact": [
+        {"month": "2025-01-01", "beneficiaries": 300, "funds_used": 30000},
+        {"month": "2025-02-01", "beneficiaries": 400, "funds_used": 40000},
+        {"month": "2025-03-01", "beneficiaries": 500, "funds_used": 50000},
+        {"month": "2025-04-01", "beneficiaries": 600, "funds_used": 55000}
+      ],
+      "verified_metrics": {
+        "verification_proof": "0x9i8h7g6f5e4d3c2b1a",
+        "impact_score": 85,
+        "transparency_rating": 90,
+        "fund_utilization_efficiency": 82,
+        "sustainable_development_goals": [
+          "SDG 4: Quality Education",
+          "SDG 10: Reduced Inequalities"
+        ]
+      },
+      "additional_info": {
+        "description": "This project provides sustainable water systems in communities facing water scarcity.",
+        "location": "International"
+      }
+    },
+    "1003": {
+      "verification_status": "Verified",
+      "last_audit_date": "2025-03-01",
+      "total_funds_received": 300000,
+      "total_funds_utilized": 150000,
+      "beneficiaries_helped": 3000,
+      "projects_completed": 2,
+      "ongoing_projects": 0,
+      "funds_allocation": {
+        "Medical Supplies": 60,
+        "Mobile Clinics": 25,
+        "Training": 15
+      },
+      "monthly_impact": [
+        {"month": "2025-01-01", "beneficiaries": 700, "funds_used": 70000},
+        {"month": "2025-02-01", "beneficiaries": 800, "funds_used": 75000},
+        {"month": "2025-03-01", "beneficiaries": 900, "funds_used": 80000},
+        {"month": "2025-04-01", "beneficiaries": 1000, "funds_used": 85000}
+      ],
+      "verified_metrics": {
+        "verification_proof": "0xabcdef9876543210",
+        "impact_score": 90,
+        "transparency_rating": 93,
+        "fund_utilization_efficiency": 87,
+        "sustainable_development_goals": [
+          "SDG 3: Good Health",
+          "SDG 1: No Poverty"
+        ]
+      },
+      "additional_info": {
+        "description": "Aimed at providing critical medical supplies and healthcare services to regions in need.",
+        "location": "International"
+      }
+    }
+  }
+  
