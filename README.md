@@ -1,6 +1,6 @@
 Solo project by Lee Yen Fei.
 
-Pitch: https://youtu.be/sK0d2sG6LZ0
+Pitch: https://youtu.be/UX72V8ZwFpQ
 
 Project demo: https://hederagive.streamlit.app/
 
